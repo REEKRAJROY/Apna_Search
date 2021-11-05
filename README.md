@@ -1,5 +1,4 @@
 # 🙏️ Namaste to Apna Search
-<br><br><br>
 ![Apna Search 🔎](https://user-images.githubusercontent.com/55712612/140558324-e95b293a-bc48-4f98-b975-93ff80a103db.gif)
 <br>
 Try the application here: [Apna Search 🔎](https://apnasearch.netlify.app/search)
