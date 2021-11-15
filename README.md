@@ -14,4 +14,4 @@ Clone this repo, open it in a text editor of choice, and run `npm install @craco
 
 # 📑️ Further Documentation
 
-This is a nice documentation on [Tailwind CSS](https://tailwindcss.com/docs) and [Rapid API](https://docs.rapidapi.com/). This project has beennn made by following JavaScript Mastery's video on [Google Search Clone](https://www.youtube.com/watch?v=NDbruK1fzG8&list=LL&index=12).
+This is a nice documentation on [Tailwind CSS](https://tailwindcss.com/docs) and [Rapid API](https://docs.rapidapi.com/).
